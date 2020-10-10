@@ -1,0 +1,566 @@
+2010 Rank,Municipality,County,Population in 2010,Population in 2017,Municipal type
+1,Newark,Essex,"277,140","285,154",City
+2,Jersey City,Hudson,"247,597","270,753",City
+3,Paterson,Passaic,"146,199","148,678",City
+4,Elizabeth,Union,"124,969","130,215",City
+5,Edison,Middlesex,"99,967","102,450",Township
+6,Woodbridge,Middlesex,"99,585","101,965",Township
+7,Lakewood,Ocean,"92,843","102,682",Township
+8,Toms River,Ocean,"91,239","93,017",Township
+9,Hamilton,Mercer,"88,464","89,078",Township
+10,Trenton,Mercer,"84,913","84,964",City
+11,Clifton,Passaic,"84,136","86,607",City
+12,Camden,Camden,"77,344","74,532",City
+13,Brick,Ocean,"75,072","75,516",Township
+14,Cherry Hill,Camden,"71,045","71,479",Township
+15,Passaic,Passaic,"69,781","71,247",City
+16,Middletown,Monmouth,"66,522","65,603",Township
+17,Union City,Hudson,"66,455","70,387",City
+18,Old Bridge,Middlesex,"65,375","67,032",Township
+19,Gloucester Township,Camden,"64,634","64,159",Township
+20,East Orange,Essex,"64,270","65,378",City
+21,Bayonne,Hudson,"63,024","67,186",City
+22,Franklin Township,Somerset,"62,300","66,734",Township
+23,North Bergen,Hudson,"60,773","63,659",Township
+24,Vineland,Cumberland,"60,724","60,392",City
+25,Union,Union,"56,642","59,327",Township
+26,Piscataway,Middlesex,"56,044","57,887",Township
+27,New Brunswick,Middlesex,"55,181","57,073",City
+28,Jackson,Ocean,"54,856","57,073",Township
+29,Wayne,Passaic,"54,717","55,072",Township
+30,Irvington,Essex,"53,926","54,865",Township
+31,Parsippany,Morris,"53,238","53,201",Township
+32,Howell,Monmouth,"51,075","52,476",Township
+33,Perth Amboy,Middlesex,"50,814","52,823",City
+34,Hoboken,Hudson,"50,005","55,131",City
+35,Plainfield,Union,"49,808","51,327",City
+36,West New York,Hudson,"49,708","54,227",Town
+37,Washington Township,Gloucester,"48,559","47,848",Township
+38,East Brunswick,Middlesex,"47,512","48,840",Township
+39,Bloomfield,Essex,"47,315","50,970",Township
+40,West Orange,Essex,"46,207","48,435",Township
+41,Evesham Township,Burlington,"45,538","45,381",Township
+42,Bridgewater,Somerset,"44,464","45,414",Township
+43,South Brunswick,Middlesex,"43,417","46,561",Township
+44,Egg Harbor Township,Atlantic,"43,323","43,296",Township
+45,Manchester,Ocean,"43,070","43,395",Township
+46,Hackensack,Bergen,"43,010","45,248",City
+47,Sayreville,Middlesex,"42,704","45,325",Borough
+48,Mount Laurel,Burlington,"41,864","41,662",Township
+49,Berkeley Township,Ocean,"41,255","41,747",Township
+50,North Brunswick,Middlesex,"40,742","42,641",Township
+51,Kearny,Hudson,"40,684","42,670",Town
+52,Linden,Union,"40,499","43,056",City
+53,Marlboro,Monmouth,"40,191","40,306",Township
+54,Teaneck,Bergen,"39,776","41,311",Township
+55,Atlantic City,Atlantic,"39,558","38,429",City
+56,Winslow Township,Camden,"39,499","39,041",Township
+57,Monroe Township,Middlesex,"39,132","45,332",Township
+58,Manalapan,Monmouth,"38,872","40,013",Township
+59,Hillsborough,Somerset,"38,303","40,003",Township
+60,Montclair,Essex,"37,669","39,227",Township
+61,Galloway Township,Atlantic,"37,349","36,563",Township
+62,Freehold Township,Monmouth,"36,184","35,053",Township
+63,Monroe Township,Gloucester,"36,129","36,920",Township
+64,Belleville,Essex,"35,926","36,498",Township
+65,Pennsauken,Camden,"35,885","35,934",Township
+66,Ewing,Mercer,"35,790","36,549",Township
+67,Fort Lee,Bergen,"35,345","37,907",Borough
+68,Lawrence,Mercer,"33,472","33,161",Township
+69,Fair Lawn,Bergen,"32,457","33,710",Borough
+70,Willingboro,Burlington,"31,629","32,062",Township
+71,Long Branch,Monmouth,"30,719","30,762",City
+72,Deptford,Gloucester,"30,561","30,582",Township
+73,Garfield,Bergen,"30,487","32,393",City
+74,Westfield,Union,"30,316","30,433",Town
+75,City of Orange,Essex,"30,134","30,813",Township
+76,Livingston,Essex,"29,366","30,142",Township
+77,Voorhees,Camden,"29,131","29,462",Township
+78,Princeton,Mercer,"28,400","27,918",Borough
+79,Millville,Cumberland,"28,370","28,928",City
+80,Nutley,Essex,"28,117","29,253",Township
+81,Mount Olive,Morris,"27,935","27,844",Township
+82,Neptune,Monmouth,"27,912","27,301",Township
+83,Pemberton Township,Burlington,"27,644","28,819",Township
+84,Lacey Township,Ocean,"27,346","30,131",Township
+85,Rahway,Union,"27,291","26,988",City
+86,Ocean Township,Monmouth,"27,190","27,725",Township
+87,East Windsor,Mercer,"27,165","28,491",Township
+88,West Windsor,Mercer,"27,147","29,112",Township
+89,Englewood,Bergen,"26,764","27,927",City
+90,Bergenfield,Bergen,"26,652","27,061",Borough
+91,Bernards Township,Somerset,"26,535","27,346",Township
+92,Stafford Township,Ocean,"26,503","26,408",Township
+93,Hamilton Township,Atlantic,"26,342","27,032",Township
+94,Paramus,Bergen,"26,164","25,981",Borough
+95,Wall Township,Monmouth,"25,890","26,759",Township
+96,Mahwah,Bergen,"25,850","26,856",Township
+97,West Milford,Passaic,"25,734","25,893",Township
+98,Randolph,Morris,"25,349","24,505",Township
+99,Bridgeton,Cumberland,"24,958","25,692",City
+100,Ridgewood,Bergen,"24,156","25,494",Village
+101,Rockaway Township,Morris,"24,136","24,961",Township
+102,Lodi,Bergen,"23,943","22,239",Borough
+103,Vernon,Sussex,"23,867","24,847",Township
+104,Maplewood,Essex,"23,594","25,142",Township
+105,Cliffside Park,Bergen,"23,510","24,630",Borough
+106,Scotch Plains,Union,"23,385","24,435",Township
+107,South Plainfield,Middlesex,"23,324","23,342",Borough
+108,Roxbury,Morris,"23,033","23,496",Township
+109,Medford,Burlington,"22,999","23,504",Township
+110,Plainsboro,Middlesex,"22,866","21,766",Township
+111,Lower Township,Cape May,"22,844","24,084",Township
+112,Carteret,Middlesex,"22,625","24,439",Borough
+113,Cranford,Union,"22,594","22,824",Township
+114,Burlington Township,Burlington,"22,306","22,489",Township
+115,Morris Township,Morris,"22,254","23,584",Township
+116,Montgomery,Somerset,"22,185","22,106",Township
+117,Raritan Township,Hunterdon,"21,936","22,060",Township
+118,North Plainfield,Somerset,"21,677","21,248",Borough
+119,West Deptford,Gloucester,"21,528","21,681",Township
+120,Montville,Morris,"21,457","22,323",Township
+121,Summit,Union,"21,404","22,274",City
+122,Hillside,Union,"21,314","21,368",Township
+123,Jefferson Township,Morris,"21,085","21,976",Township
+124,Roselle,Union,"20,936","22,783",Borough
+125,Barnegat,Ocean,"20,726","20,540",Township
+126,Moorestown,Burlington,"20,554","22,426",Township
+127,Lyndhurst,Bergen,"20,334","20,015",Township
+128,Hazlet,Monmouth,"20,249","20,732",Township
+129,Pleasantville,Atlantic,"20,149","20,488",City
+130,Millburn,Essex,"20,065","21,177",Township
+131,Little Egg Harbor,Ocean,"19,722","18,807",Township
+132,Sparta,Sussex,"19,622","20,988",Township
+133,Palisades Park,Bergen,"19,403","20,429",Borough
+134,Elmwood Park,Bergen,"19,131","18,821",Borough
+135,Maple Shade,Burlington,"18,911","18,427",Township
+136,Middle Township,Cape May,"18,791","19,101",Township
+137,Hawthorne,Passaic,"18,579","20,011",Borough
+138,Glassboro,Gloucester,"18,533","18,726",Borough
+139,Washington Township,Morris,"18,411","19,037",Township
+140,Morristown,Morris,"18,392","18,651",Town
+141,Point Pleasant,Ocean,"18,210","18,355",Borough
+142,Aberdeen,Monmouth,"18,157","18,232",Township
+143,Dover,Morris,"18,061","18,782",Town
+144,Rutherford,Bergen,"17,892","17,789",Borough
+145,Tinton Falls,Monmouth,"17,613","17,471",Borough
+146,Lindenwold,Camden,"17,479","17,998",Borough
+147,Dumont,Bergen,"17,304","18,265",Borough
+148,Hopewell Township,Mercer,"16,896","16,623",Township
+149,Delran,Burlington,"16,820","16,499",Township
+150,Franklin Township,Gloucester,"16,773","16,640",Township
+151,Holmdel,Monmouth,"16,696","17,322",Township
+152,Wyckoff,Bergen,"16,635","16,941",Township
+153,Denville,Morris,"16,341","16,868",Township
+154,New Milford,Bergen,"16,264","20,215",Borough
+155,Secaucus,Hudson,"16,198","17,001",Town
+156,South Orange Village,Essex,"16,126","15,963",Township[8]
+157,Readington,Hunterdon,"16,116","15,767",Township
+158,Asbury Park,Monmouth,"16,008","16,349",City
+159,South River,Middlesex,"15,845","16,033",Borough
+160,Madison,Morris,"15,817","17,726",Borough
+161,Springfield,Union,"15,569","16,495",Township
+162,Cinnaminson,Burlington,"15,540","15,410",Township
+163,Pequannock,Morris,"15,392","16,009",Township
+164,North Arlington,Bergen,"15,311","16,029",Borough
+165,Warren,Somerset,"15,217","15,026",Township
+166,Mantua,Gloucester,"15,147","14,298",Township
+167,Hopatcong,Sussex,"14,950","14,459",Borough
+168,Phillipsburg,Warren,"14,791","14,369",Town
+169,Hammonton,Atlantic,"14,756","16,109",Town
+170,Clark,Union,"14,707","14,706",Township
+171,Haddon Township,Camden,"14,488","14,900",Township
+172,Tenafly,Bergen,"14,473","15,242",Borough
+173,Ramsey,Bergen,"14,459","14,712",Borough
+174,Branchburg,Somerset,"14,432","14,502",Township
+175,Little Falls,Passaic,"13,982","14,164",Township
+176,Highland Park,Middlesex,"13,926","14,027",Borough
+177,Collingswood,Camden,"13,835","14,537",Borough
+178,Fairview,Bergen,"13,712","14,661",Borough
+179,Hanover,Morris,"13,659","14,169",Township
+180,Saddle Brook,Bergen,"13,642","14,757",Township
+181,Robbinsville,Mercer,"13,635","13,867",Township
+182,Middlesex,Middlesex,"13,620","17,643",Borough
+183,Harrison,Hudson,"13,574","14,349",Town
+184,Metuchen,Middlesex,"13,478","12,907",Borough
+185,Clinton Township,Hunterdon,"13,409","12,499",Township
+186,Pennsville,Salem,"13,332","13,608",Township
+187,Verona,Essex,"13,297","13,821",Township
+188,Roselle Park,Union,"13,183","13,759",Borough
+189,Berkeley Heights,Union,"12,754","13,224",Township
+190,Oakland,Bergen,"12,729","13,154",Borough
+191,Ridgefield Park,Bergen,"12,709","12,376",Village
+192,Eatontown,Monmouth,"12,559","12,290",Borough
+193,Lumberton,Burlington,"12,554","15,342",Township
+194,Weehawken,Hudson,"12,417","13,015",Township
+195,Harrison Township,Gloucester,"12,411","12,703",Township
+196,Cedar Grove,Essex,"12,373","11,893",Township
+197,Upper Township,Cape May,"12,307","31,822",Township
+198,Ringwood,Passaic,"12,228","12,454",Borough
+199,Red Bank,Monmouth,"12,206","12,150",Borough
+200,New Providence,Union,"12,171","13,308",Borough
+201,Florence,Burlington,"12,109","12,669",Township
+202,Somerville,Somerset,"12,098","12,418",Borough
+203,Freehold,Monmouth,"12,052","11,894",Borough
+204,Hasbrouck Heights,Bergen,"11,842","12,277",Borough
+205,Woodland Park,Passaic,"11,819","12,834",Borough
+206,Ocean City,Cape May,"11,701","11,206",City
+207,Florham Park,Morris,"11,696","11,765",Borough
+208,Glen Rock,Bergen,"11,601","12,045",Borough
+209,Haddonfield,Camden,"11,593","11,435",Borough
+210,Bellmawr,Camden,"11,583","11,489",Borough
+211,Edgewater,Bergen,"11,513","12,368",Borough
+212,Gloucester City,Camden,"11,456","11,342",City
+213,Bordentown Township,Burlington,"11,367","12,202",Township
+214,Wantage Township,Sussex,"11,358","10,934",Township
+215,River Edge,Bergen,"11,340","11,724",Borough
+216,Wallington,Bergen,"11,335","11,781",Borough
+217,Guttenberg,Hudson,"11,176","11,695",Town
+218,East Hanover,Morris,"11,157","11,234",Township
+219,Wanaque,Passaic,"11,116","11,994",Borough
+220,Pompton Lakes,Passaic,"11,097","11,206",Borough
+221,Beachwood,Ocean,"11,045","11,248",Borough
+222,Ridgefield,Bergen,"11,032","11,435",Borough
+223,Westwood,Bergen,"10,908","11,326",Borough
+224,Totowa,Passaic,"10,804","10,817",Borough
+225,Somers Point,Atlantic,"10,795","10,480",City
+226,West Caldwell,Essex,"10,759","11,021",Township
+227,Ventnor City,Atlantic,"10,650","10,239",City
+228,Waterford Township,Camden,"10,649","10,774",Township
+229,Little Ferry,Bergen,"10,626","11,000",Borough
+230,Franklin Lakes,Bergen,"10,590","11,255",Borough
+231,Millstone Township,Monmouth,"10,566","10,517",Township
+232,Lincoln Park,Morris,"10,521","10,468",Borough
+233,Southampton,Burlington,"10,464","10,205",Township
+234,Chatham Township,Morris,"10,452","10,435",Township
+235,Bound Brook,Somerset,"10,402","10,468",Borough
+236,Manville,Somerset,"10,344","10,414",Borough
+237,Kinnelon,Morris,"10,248","10,213",Borough
+238,Pine Hill,Camden,"10,233","10,536",Borough
+239,Hillsdale,Bergen,"10,219","10,581",Borough
+240,Woolwich Township,Gloucester,"10,200","12,472",Township
+241,Woodbury,Gloucester,"10,174","9,919",City
+242,Colts Neck,Monmouth,"10,142","9,968",Township
+243,Keansburg,Monmouth,"10,105","9,806",Borough
+244,Burlington,Burlington,"9,920","9,832",City
+245,Hackettstown,Warren,"9,724","9,554",Town
+246,River Vale,Bergen,"9,659","10,223",Township
+247,Waldwick,Bergen,"9,625","10,092",Borough
+248,East Greenwich Township,Gloucester,"9,555","9,860",Township
+249,Maywood,Bergen,"9,555","10,520",Borough
+250,Mount Holly,Burlington,"9,536","9,645",Township
+251,Brigantine,Atlantic,"9,450","8,963",City
+252,Pittsgrove Township,Salem,"9,393","8,864",Township
+253,Washington Township,Bergen,"9,102","9,393",Township
+254,Pitman,Gloucester,"9,011","8,846",Borough
+255,Chatham,Morris,"8,962","8,928",Borough
+256,Leonia,Bergen,"8,937","9,262",Borough
+257,East Rutherford,Bergen,"8,913","9,928",Borough
+258,Edgewater Park,Burlington,"8,881","8,738",Township
+259,Audubon,Camden,"8,819","8,733",Borough
+260,Westampton,Burlington,"8,813","8,760",Township
+261,Matawan,Monmouth,"8,810","8,869",Borough
+262,Long Hill Township,Morris,"8,702","8,711",Township
+263,Park Ridge,Bergen,"8,645","8,944",Borough
+264,South Amboy,Middlesex,"8,631","8,857",City
+265,Northfield,Atlantic,"8,624","8,360",City
+266,Cresskill,Bergen,"8,573","8,935",Borough
+267,Mansfield Township,Burlington,"8,544","8,577",Township
+268,Runnemede,Camden,"8,468","8,390",Borough
+269,Plumsted Township,Ocean,"8,421","8,543",Township
+270,North Haledon,Passaic,"8,417","8,570",Borough
+271,Absecon,Atlantic,"8,411","8,283",City
+272,Closter,Bergen,"8,373","8,766",Borough
+273,Byram Township,Sussex,"8,350","7,983",Township
+274,Boonton,Morris,"8,347","8,354",Town
+275,Ocean Township,Ocean,"8,332","9,049",Township
+276,Haledon,Passaic,"8,318","8,463",Borough
+277,Spotswood,Middlesex,"8,257","8,456",Borough
+278,Hardyston Township,Sussex,"8,213","7,867",Township
+279,Upper Saddle River,Bergen,"8,208","8,415",Borough
+280,Bogota,Bergen,"8,187","8,567",Borough
+281,Clayton,Gloucester,"8,179","8,676",Borough
+282,Bedminster,Somerset,"8,165","8,210",Township
+283,West Long Branch,Monmouth,"8,097","7,972",Borough
+284,Riverside,Burlington,"8,079","7,899",Township
+285,Carneys Point,Salem,"8,049","7,702",Township
+286,Lopatcong Township,Warren,"8,014","8,348",Township
+287,Newton,Sussex,"7,997","7,860",Town
+288,Oradell,Bergen,"7,978","8,314",Borough
+289,Maurice River,Cumberland,"7,976","6,325",Township
+290,Kenilworth,Union,"7,914","8,312",Borough
+291,Montvale,Bergen,"7,844","8,724",Borough
+292,Chester Township,Morris,"7,838","7,915",Township
+293,Caldwell,Essex,"7,822","8,085",Borough
+294,Mansfield Township,Warren,"7,725","7,464",Township
+295,Bernardsville,Somerset,"7,707","7,815",Borough
+296,Chesterfield,Burlington,"7,699","7,587",Township
+297,North Hanover,Burlington,"7,678","7,540",Township
+298,Upper Deerfield Township,Cumberland,"7,660","7,431",Township
+299,Bloomingdale,Passaic,"7,656","8,242",Borough
+300,Wood-Ridge,Bergen,"7,626","9,018",Borough
+301,Berlin,Camden,"7,588","7,606",Borough
+302,Buena Vista,Atlantic,"7,570","7,422",Township
+303,Butler,Morris,"7,539","7,774",Borough
+304,Glen Ridge,Essex,"7,527","7,704",Borough
+305,Haddon Heights,Camden,"7,473","7,588",Borough
+306,Fairfield,Essex,"7,466","7,614",Township
+307,Emerson,Bergen,"7,401","7,739",Borough
+308,Palmyra,Burlington,"7,398","7,221",Borough
+309,New Hanover,Burlington,"7,385","7,491",Township
+310,Fanwood,Union,"7,318","7,808",Borough
+311,Keyport,Monmouth,"7,240","7,085",Borough
+312,Dunellen,Middlesex,"7,227","7,407",Borough
+313,Green Brook,Somerset,"7,203","7,212",Township
+314,Midland Park,Bergen,"7,128","7,384",Borough
+315,Rumson,Monmouth,"7,122","6,864",Borough
+316,Linwood,Atlantic,"7,092","6,855",City
+317,Stratford,Camden,"7,040","7,015",Borough
+318,Barrington,Camden,"6,983","6,781",Borough
+319,Tabernacle,Burlington,"6,949","6,882",Township
+320,Upper Freehold,Monmouth,"6,902","6,975",Township
+321,Milltown,Middlesex,"6,893","7,162",Borough
+322,Raritan,Somerset,"6,881","8,011",Borough
+323,Mountainside,Union,"6,685","6,982",Borough
+324,Washington Township,Warren,"6,651","6,461",Township
+325,Lebanon Township,Hunterdon,"6,588","6,101",Township
+326,Wharton,Morris,"6,522","6,571",Borough
+327,Allendale,Bergen,"6,505","6,906",Borough
+328,Shamong,Burlington,"6,490","6,433",Township
+329,Dennis Township,Cape May,"6,467","6,253",Township
+330,Washington,Warren,"6,461","6,524",Borough
+331,Rockaway,Morris,"6,438","6,474",Borough
+332,Margate City,Atlantic,"6,354","6,083",City
+333,Andover Township,Sussex,"6,319","5,978",Township
+334,Fairfield Township,Cumberland,"6,295","6,087",Township
+335,Union Beach,Monmouth,"6,245","5,562",Borough
+336,North Caldwell,Essex,"6,183","6,730",Borough
+337,Mullica Township,Atlantic,"6,147","6,022",Township
+338,Carlstadt,Bergen,"6,127","6,314",Borough
+339,Fair Haven,Monmouth,"6,121","5,950",Borough
+340,Hainesport,Burlington,"6,110","6,058",Township
+341,Paulsboro,Gloucester,"6,097","5,920",Borough
+342,Eastampton,Burlington,"6,069","5,953",Township
+343,Logan Township,Gloucester,"6,042","5,944",Township
+344,Tewksbury,Hunterdon,"5,993","5,844",Township
+345,Blairstown,Warren,"5,967","5,808",Township
+346,Little Silver,Monmouth,"5,950","5,908",Borough
+347,Jamesburg,Middlesex,"5,915","6,068",Borough
+348,Union Township,Hunterdon,"5,908","5,543",Township
+349,Manasquan,Monmouth,"5,897","5,903",Borough
+350,Mendham Township,Morris,"5,869","5,845",Township
+351,Prospect Park,Passaic,"5,865","5,964",Borough
+352,Oceanport,Monmouth,"5,832","5,755",Borough
+353,Roseland,Essex,"5,819","5,937",Borough
+354,Watchung,Somerset,"5,801","5,985",Borough
+355,Belmar,Monmouth,"5,794","5,682",Borough
+356,Old Tappan,Bergen,"5,750","6,042",Borough
+357,Woodcliff Lake,Bergen,"5,730","5,903",Borough
+358,Greenwich Township,Warren,"5,712","5,532",Township
+359,Norwood,Bergen,"5,711","5,895",Borough
+360,Independence Township,Warren,"5,662","5,514",Township
+361,Frankford Township,Sussex,"5,565","5,348",Township
+362,Morris Plains,Morris,"5,532","5,581",Borough
+363,Rochelle Park,Bergen,"5,530","5,705",Township
+364,Hightstown,Mercer,"5,494","5,384",Borough
+365,Berlin Township,Camden,"5,357","5,580",Township
+366,Wildwood,Cape May,"5,325","5,070",City
+367,Holland Township,Hunterdon,"5,291","5,151",Township
+368,Englewood Cliffs,Bergen,"5,281","5,453",Borough
+369,Hampton Township,Sussex,"5,196","4,896",Township
+370,Commercial Township,Cumberland,"5,178","5,018",Township
+371,Somerdale,Camden,"5,151","5,508",Borough
+372,Penns Grove,Salem,"5,147","4,831",Borough
+373,Salem,Salem,"5,146","4,774",City
+374,Mount Arlington,Morris,"5,050","5,868",Borough
+375,Franklin,Sussex,"5,045","4,775",Borough
+376,Highlands,Monmouth,"5,005","4,821",Borough
+377,Clementon,Camden,"5,000","4,959",Borough
+378,Mendham,Morris,"4,981","4,978",Borough
+379,Alexandria Township,Hunterdon,"4,938","4,805",Township
+380,Greenwich Township,Gloucester,"4,899","4,846",Township
+381,White Township,Warren,"4,882","4,747",Township
+382,Demarest,Bergen,"4,881","5,032",Borough
+383,Neptune City,Monmouth,"4,869","4,708",Borough
+384,Brielle,Monmouth,"4,774","4,724",Borough
+385,Spring Lake Heights,Monmouth,"4,713","4,618",Borough
+386,Mount Ephraim,Camden,"4,676","4,635",Borough
+387,Point Pleasant Beach,Ocean,"4,665","4,544",Borough
+388,Harrington Park,Bergen,"4,664","4,846",Borough
+389,Northvale,Bergen,"4,640","4,985",Borough
+390,Buena,Atlantic,"4,603","4,429",Borough
+391,Flemington,Hunterdon,"4,581","4,621",Borough
+392,Hopewell Township,Cumberland,"4,571","4,422",Township
+393,Delaware Township,Hunterdon,"4,563","4,474",Township
+394,South Bound Brook,Somerset,"4,563","4,657",Borough
+395,Atlantic Highlands,Monmouth,"4,385","4,311",Borough
+396,Magnolia,Camden,"4,341","4,303",Borough
+397,Allamuchy,Warren,"4,323","4,644",Township
+398,Bradley Beach,Monmouth,"4,298","4,225",Borough
+399,Westville,Gloucester,"4,288","4,194",Borough
+400,Delanco,Burlington,"4,283","4,479",Township
+401,Boonton Township,Morris,"4,263","4,350",Township
+402,Egg Harbor City,Atlantic,"4,243","4,174",City
+403,Garwood,Union,"4,226","4,408",Borough
+404,Elk Township,Gloucester,"4,216","4,175",Township
+405,Mountain Lakes,Morris,"4,160","4,345",Borough
+406,Medford Lakes,Burlington,"4,146","4,013",Borough
+407,Stillwater Township,Sussex,"4,099","3,920",Township
+408,Ho-Ho-Kus,Bergen,"4,078","4,183",Borough
+409,North Wildwood,Cape May,"4,041","3,843",City
+410,Oaklyn,Camden,"4,038","3,996",Borough
+411,Pilesgrove Township,Salem,"4,016","3,993",Township
+412,East Amwell,Hunterdon,"4,013","3,925",Township
+413,Bethlehem Township,Hunterdon,"3,979","3,888",Township
+414,Bordentown,Burlington,"3,924","3,835",City
+415,Lambertville,Hunterdon,"3,906","3,824",City
+416,Cranbury,Middlesex,"3,857","3,944",Township
+417,Montague,Sussex,"3,847","3,695",Township
+418,Kingwood Township,Hunterdon,"3,845","3,752",Township
+419,West Amwell,Hunterdon,"3,840","2,767",Township
+420,Harding Township,Morris,"3,838","3,873",Township
+421,Merchantville,Camden,"3,821","3,770",Borough
+422,Shrewsbury,Monmouth,"3,809","4,122",Borough
+423,South Toms River,Ocean,"3,684","3,772",Borough
+424,Mine Hill,Morris,"3,651","3,593",Township
+425,High Bridge,Hunterdon,"3,648","3,542",Borough
+426,Stanhope,Sussex,"3,610","3,341",Borough
+427,Cape May,Cape May,"3,607","3,480",City
+428,Green Township,Sussex,"3,601","3,486",Township
+429,Riverdale,Morris,"3,559","4,247",Borough
+430,Upper Pittsgrove,Salem,"3,505","3,360",Township
+431,Woodstown,Salem,"3,505","3,454",Borough
+432,Alloway Township,Salem,"3,467","3,327",Township
+433,Fredon Township,Sussex,"3,437","3,196",Township
+434,Springfield Township,Burlington,"3,414","3,295",Township
+435,Haworth,Bergen,"3,382","3,497",Borough
+436,Tuckerton,Ocean,"3,347","3,372",Borough
+437,Pohatcong Township,Warren,"3,339","3,231",Township
+438,Lawrence Township,Cumberland,"3,290","3,186",Township
+439,Monmouth Beach,Monmouth,"3,279","3,236",Borough
+440,Hamburg,Sussex,"3,277","3,132",Borough
+441,Wildwood Crest,Cape May,"3,270","3,137",Borough
+442,Netcong,Morris,"3,232","3,229",Borough
+443,Franklin Township,Hunterdon,"3,195","3,232",Township
+444,Franklin Township,Warren,"3,176","3,090",Township
+445,South Harrison Township,Gloucester,"3,162","3,170",Township
+446,Saddle River,Bergen,"3,152","3,262",Borough
+447,Deerfield Township,Cumberland,"3,119","3,057",Township
+448,Knowlton Township,Warren,"3,055","2,996",Township
+449,Woodbury Heights,Gloucester,"3,055","2,972",Borough
+450,Long Beach,Ocean,"3,051","3,065",Township
+451,National Park,Gloucester,"3,036","2,985",Borough
+452,Spring Lake,Monmouth,"2,993","2,962",Borough
+453,Woodlynne,Camden,"2,978","2,947",Borough
+454,Lawnside,Camden,"2,945","2,920",Borough
+455,Liberty Township,Warren,"2,942","2,843",Township
+456,Seaside Heights,Ocean,"2,887","2,903",Borough
+457,Riverton,Burlington,"2,779","2,706",Borough
+458,Clinton,Hunterdon,"2,719","2,701",Town
+459,Weymouth Township,Atlantic,"2,715","2,820",Township
+460,Moonachie,Bergen,"2,708","2,800",Borough
+461,Belvidere,Warren,"2,681","2,603",Town
+462,Harmony Township,Warren,"2,667","2,520",Township
+463,Quinton Township,Salem,"2,666","2,489",Township
+464,Lakehurst,Ocean,"2,654","2,697",Borough
+465,Pennington,Mercer,"2,585","2,589",Borough
+466,Swedesboro,Gloucester,"2,584","2,594",Borough
+467,Peapack and Gladstone,Somerset,"2,582","2,610",Borough
+468,Beverly,Burlington,"2,577","2,504",City
+469,Lafayette,Sussex,"2,538","2,404",Township
+470,Oxford Township,Warren,"2,514","2,454",Township
+471,Woodbine,Cape May,"2,472","2,461",Borough
+472,Ogdensburg,Sussex,"2,410","2,282",Borough
+473,East Newark,Hudson,"2,406","2,735",Borough
+474,South Hackensack,Bergen,"2,378","2,492",Township
+475,Alpha,Warren,"2,369","2,297",Borough
+476,Wenonah,Gloucester,"2,278","2,239",Borough
+477,Gibbsboro,Camden,"2,274","2,247",Borough
+478,Frelinghuysen Township,Warren,"2,230","2,200",Township
+479,Helmetta,Middlesex,"2,178","2,223",Borough
+480,Sussex,Sussex,"2,130","2,024",Borough
+481,Pine Beach,Ocean,"2,127","2,168",Borough
+482,Sea Isle City,Cape May,"2,114","2,068",City
+483,Essex Fells,Essex,"2,113","2,137",Borough
+484,Ocean Gate,Ocean,"2,011","2,021",Borough
+485,Sandyston Township,Sussex,"1,998","1,856",Township
+486,Brooklawn,Camden,"1,955","1,934",Borough
+487,Hope Township,Warren,"1,952","1,890",Township
+488,Hopewell,Mercer,"1,922","1,948",Borough
+489,Laurel Springs,Camden,"1,908","1,886",Borough
+490,Avon-by-the-Sea,Monmouth,"1,901","1,794",Borough
+491,Folsom,Atlantic,"1,885","1,815",Borough
+492,Lavallette,Ocean,"1,875","1,849",Borough
+493,Alpine,Bergen,"1,849","1,890",Borough
+494,Englishtown,Monmouth,"1,847","1,943",Borough
+495,Allentown,Monmouth,"1,828","1,811",Borough
+496,Sea Girt,Monmouth,"1,828","1,774",Borough
+497,Mannington Township,Salem,1806,1731,Township
+498,Woodland Township,Burlington,"1,788","1,775",Township
+499,Oldmans Township,Salem,"1,773","1,792",Township
+500,Lower Alloways Creek,Salem,"1,770","1,688",Township
+501,Lake Como,Monmouth,"1,759","1,717",Borough
+502,Estell Manor,Atlantic,"1,735","1,720",City
+503,Glen Gardner,Hunterdon,"1,704","1,924",Borough
+504,Hardwick Township,Warren,"1,696","1,643",Township
+505,Island Heights,Ocean,"1,673","1,667",Borough
+506,Chester Borough,Morris,"1,649","1,665",Borough
+507,Chesilhurst,Camden,"1,634","1,639",Borough
+508,Eagleswood,Ocean,"1,603","1,611",Township
+509,Downe Township,Cumberland,"1,585","1,524",Township
+510,Seaside Park,Ocean,"1,579","1,549",Borough
+511,Newfield,Gloucester,"1,553","1,561",Borough
+512,Victory Gardens,Morris,"1,520","1,516",Borough
+513,Winfield,Union,"1,471","1,528",Township
+514,Bass River,Burlington,"1,443","1,436",Township
+515,Stow Creek Township,Cumberland,"1,431","1,405",Township
+516,Sea Bright,Monmouth,"1,412","1,389",Borough
+517,Pemberton,Burlington,"1,409","1,340",Borough
+518,Hampton,Hunterdon,"1,401","1,331",Borough
+519,Elmer,Salem,"1,395","1,312",Borough
+520,Frenchtown,Hunterdon,"1,373","1,366",Borough
+521,Lebanon,Hunterdon,"1,358","1,669",Borough
+522,Avalon,Cape May,"1,334","1,267",Borough
+523,Farmingdale,Monmouth,"1,329","1,298",Borough
+524,Milford,Hunterdon,"1,233","1,189",Borough
+525,Surf City,Ocean,"1,205","1,187",Borough
+526,Beach Haven,Ocean,"1,170","1,182",Borough
+527,Ship Bottom,Ocean,"1,156","1,143",Borough
+528,Shrewsbury Township,Monmouth,"1,141","1,010",Township
+529,Port Republic,Atlantic,"1,115","1,080",City
+530,Califon,Hunterdon,"1,076","1,068",Borough
+531,Elsinboro Township,Salem,"1,036",976,Township
+532,West Cape May,Cape May,"1,024","1,015",Borough
+533,Audubon Park,Camden,"1,023","1,012",Borough
+534,Bay Head,Ocean,968,981,Borough
+535,Far Hills,Somerset,919,927,Borough
+536,Longport,Atlantic,895,876,Borough
+537,Roosevelt,Monmouth,882,854,Borough
+538,Bloomsbury,Hunterdon,870,867,Borough
+539,Hi-Nella,Camden,870,846,Borough
+540,Stone Harbor,Cape May,866,822,Borough
+541,Branchville,Sussex,841,783,Borough
+542,Interlaken,Monmouth,820,801,Borough
+543,Greenwich Township,Cumberland,804,771,Township
+544,Wrightstown,Burlington,802,785,Borough
+545,Deal,Monmouth,750,733,Borough
+546,Washington Township,Burlington,687,710,Township
+547,Rocky Hill,Somerset,682,688,Borough
+548,Andover,Sussex,606,567,Borough
+549,West Wildwood,Cape May,603,566,Borough
+550,Barnegat Light,Ocean,574,587,Borough
+551,Fieldsboro,Burlington,540,531,Borough
+552,Stockton,Hunterdon,538,520,Borough
+553,Rockleigh,Bergen,531,534,Borough
+554,Shiloh,Cumberland,516,497,Borough
+555,Allenhurst,Monmouth,496,489,Borough
+556,Corbin City,Atlantic,492,500,City
+557,Millstone,Somerset,418,420,Borough
+558,Harvey Cedars,Ocean,337,342,Borough
+559,Mantoloking,Ocean,296,257,Borough
+560,Cape May Point,Cape May,291,279,Borough
+561,Loch Arbour,Monmouth,194,183,Village
+562,Teterboro,Bergen,67,69,Borough
+563,Walpack Township,Sussex,16,11,Township
+564,Pine Valley,Camden,12,11,Borough
+565,Tavistock,Camden,5,5,Borough
